@@ -1,4 +1,4 @@
-# aleppo-domari-glossing
+# Aleppo Domari Glossing Toolkit
 
 This project provides a set of scripts and dictionaries for automatic morphological segmentation and interlinear glossing of Aleppo Domari language texts. The workflow is implemented in a Google Colab notebook and organized into five clear steps.
 
@@ -136,6 +136,14 @@ Such cases should be manually reviewed and resolved after this step.
 - Code and notebooks: [MIT License](./LICENSE)  
 - Dictionaries and linguistic data (`dictionaries/`, `input_texts/`, `output_texts/`): [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
+
+---
+
+## Citation
+
+If you use this toolkit in your research, please cite it as:
+
+Kitamura, Moe. *Aleppo Domari Glossing Toolkit*. GitHub repository. https://github.com/moekitamura/aleppo-domari-glossing
 ---
 
 For questions or suggestions, feel free to open an issue or contact the maintainer.
