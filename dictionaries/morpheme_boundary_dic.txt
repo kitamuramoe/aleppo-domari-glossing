@@ -188,7 +188,7 @@ iččir	- -ičč-ir
 iččis	- -ičč-is
 idoraa	- -id-or-aa
 iin	 -iin
-iinee	-iin-ee
+iinee	 -iin-ee
 iirà	- -ii-r-à
 iiraa	- -ii-r-aa
 iiree	- -ii-r-ee
@@ -334,6 +334,7 @@ ireen	- -ir-een
 ireenaa	- -ir-een-aa
 ireend	- -ir-eend
 ireendaa	- -ir-eend-aa
+ireendee	- -ir-eend-ee
 irees	- -ir-ees
 ireesaa	- -ir-ees-aa
 irom	- -ir-om
@@ -770,6 +771,7 @@ kardosisee	- -kar-d-os-is-ee
 karim	- -kar-im
 karimaa	- -kar-im-aa
 karinaa	- -kar-in-aa
+inaa	- -in-aa
 karindaa	- -kar-ind-aa
 kariraa	- -kar-ir-aa
 karosaanee	- -kar-osaan-ee
@@ -849,6 +851,7 @@ krees	- -k-r-ees
 kreesaa	- -k-r-ees-aa
 krom	- -k-r-om
 kromaa	- -k-r-om-aa
+kromee	- -k-r-om-ee
 kroomee	- -k-r-oom-ee
 kror	- -k-r-or
 kroraa	- -k-r-or-aa
@@ -887,10 +890,10 @@ omee	- -o-m-ee
 ondee	- -o-nd-ee
 ondis	- -ond-is
 onee	- -o-n-ee
-or	- -o-r
-oraa	- -o-raa
-oraan	- -o-raan
-oree	- -o-r-ee
+or	-o-r
+oraa	-o-raa
+oraan	-o-raan
+oree	-o-r-ee
 os	 -o-s
 osaa	 -o-saa
 osaan	 -o-saan
@@ -959,6 +962,7 @@ rdeesisaa	- -rd-ees-is-aa
 rdeesisee	- -rd-ees-is-ee
 rdom	- -rd-om
 rdomaa	- -rd-om-aa
+rdomee	- -rd-om-ee
 rdomir	- -rd-om-ir
 rdomiraa	- -rd-om-iraa
 rdomiraa	- -rd-om-ir-aa
@@ -1178,7 +1182,7 @@ leend	 - -l-eend
 im	 -im
 menjii	menj-ii
 eesaan	 -ee-saan
-naa	 -- -n-aa
+naa	- -n-aa
 aardeendimaan	- -aa-rd-eend-imaan
 išnee	- -iš-n-ee
 aandee	- -aa-nd-ee
@@ -1252,6 +1256,7 @@ naardeenee	- -naa-rd-een-ee
 naardeend	- -naa-rd-eend
 naardeendaa	- -naa-rd-eend-aa
 naardeendee	- -naa-rd-eend-ee
+rdeendee	- -rd-eend-ee
 naardees	- -naa-rd-ees
 naardeesaa	- -naa-rd-ees-aa
 naardeesee	- -naa-rd-ees-ee
@@ -1313,3 +1318,228 @@ ossee	- -os-s-ee
 romis	- -r-om-is
 karsaa	- -kar-s-aa
 karnaa	- -kar-n-aa
+eesaamà	 -ee-saa -mà
+aborkeerà	ab-or -keerà
+abomkeerà	ab-om -keerà
+aboskeerà	ab-os -keerà
+intà	 -in-tà
+eemà	 -ee-mà
+ààrosaa	ààr-osaa
+ossaan	- -os-saan
+ossaanee	- -os-saan-ee
+ossaanaa	- -os-saan-aa
+rdee	- -rd-ee
+rdossee	- -rd-os-s-ee
+rossaanee	- -r-os-saan-ee
+rimaa	- -r-imaa
+karrimaa	- -kar-r-imaa
+in	 -in
+rá	- -r-á
+karosee	- -kar-os-ee
+bidyom	bidy- -om
+krorimaa	- -kr-or-imaa
+tii	 -tii
+aadomis	-aa-d-om-is	
+aadossee	- -aa-d-os-s-ee
+aadossaa	- -aa-d-os-s-aa
+aadossaan	- -aa-d-os-saan
+aadossaa	- -aa-d-os-saa
+aadossaanee	- -aa-d-os-saan-ee
+aadossaanaa	- -aa-d-os-saan-aa
+aamee	- -aa-m-ee
+eeskaa	 -ees-kaa
+paaṣyee	paaṣ-yee
+msee	- -m-see
+ondaa	- -ond-aa
+harkamis	harkam -is
+tyaa	- -ty-aa
+tyim	- -ty-im
+tyimaa	- -ty-im-aa
+tyin	- -ty-in
+tyind	- -ty-ind
+tyir	- -ty-ir
+tyer	- -ty-er
+tyiris	- -ty-ir-is
+tyis	- -ty-is
+oty-aa	- -o-ty-aa
+otyim	- -o-ty-im
+otyimir	- -o-ty-im-ir
+otyin	- -o-ty-in
+otyind	- -o-ty-ind
+otyir	- -o-ty-ir
+otyer	- -o-ty-er
+otyis	- -o-ty-is
+krosimee	- -kr-os-im-ee
+miraa	- -m-ir-aa
+kardeesee	-kar-d-ees-ee
+imee	- -im-ee
+itee	 -itee
+aakitee	 -aak -itee
+aakit	 -aak -it
+eemaan	 -ee-maan
+nis	- -n-is
+nisee	- -n-isee
+inkee	 -in-kee
+kardeenee	- -kar-d-een-ee
+aakità	 -aak -ità
+osis	- -os-is
+rimaanee	- -r-imaan-ee
+koyee	koy-ee
+inkeerà	-in -keerà
+ikkee	 -ikkee
+maa	- -m-aa
+mee	- -m-ee
+miraa	- -m-ir-aa
+miree	- -m-ir-ee
+miraanaa	- -m-iraan-aa
+miraanee	- -m-iraan-ee
+misaa	- -m-is-aa	
+misee	- -m-is-ee
+misaanaa	- -m-isaan-aa
+misaanee	- -m-isaan-ee
+mraa	- -m-r-aa
+mree	- -m-r-ee
+mraanaa	- -m-raan-aa
+mraanee	- -m-raan-ee
+msaa	- -m-s-aa
+msee	- -m-s-ee
+msaanaa	- -m-saan-aa
+msaanee	- -m-saan-ee
+nisee	- -n-is-ee
+kakkee	kakk-ee
+kakkaa	kakk-aa
+omtee	 -o-m -tee
+kroree	- -kr-or-ee
+karmisee	- -kar-m-is-ee
+karmis	- -kar-m-is
+karaa	- -kar-aa
+karmisaan	- -kar-m-isaan
+ndaa	- -nd-aa
+ndee	- -nd-ee
+ndim	- -nd-im
+ndimaa	- -nd-im-aa
+ndimee	- -nd-im-ee
+ndimaa	- -nd-imaa
+ndimaan	- -nd-imaan
+ndimaanaa	- -nd-imaan-aa
+ndimaanee	- -nd-imaan-ee
+ndir	- -nd-ir
+ndiraa	- -nd-ir-aa
+ndiree	- -nd-ir-ee
+ndiraa	- -nd-iraa
+ndiraan	- -nd-iraan
+ndiraanaa	- -nd-iraan-aa
+ndiraanee	- -nd-iraan-ee
+ndis	- -nd-is
+ndisaa	- -nd-is-aa
+ndsaa	- -nd-s-aa
+ndisee	- -nd-is-ee
+ndisaa	- -nd-isaa
+ndisaan	- -nd-isaan
+ndisaanaa	- -nd-isaan-aa
+ndisaanee	- -nd-isaan-ee
+naanaa	- -naa-n-aa
+naanee	- -naa-n-aa
+mis	- -m-is
+aak	 -aak
+itaa	 -itaa
+dossaa	- -d-os-s-aa
+irisaanee	- -ir-isaan-ee
+krosis	- -kr-os-is
+ommà	 -o-m -mà
+omisee	- -om-is-ee
+ninyee	nin-yee
+reesee	- -r-ees-ee
+karis	- -kar-is
+ndisaanee	- -nd-isaan-ee
+reesee	- -r-ees-ee
+kardeendee	- -kar-d-eend-ee
+sakee	sak- -ee
+irdeensee	- -ird-een-s-ee
+aakee	-aak -ee
+karindisee	- -kar-ind-is-ee
+karir	- -kar-ir
+aaris	- -aa-r-is
+irsaan	- -ir-saan
+irdeendir	- -ird-eend-ir
+indiree	- -ind-ir-ee
+rimee	- -r-im-ee
+kardossaa	- -kar-d-os-saa
+kardossaan	- -kar-d-os-saan
+indiraan	- -ind-iraan
+tyindiraa	- -ty-ind-ir-aa
+tyindiree	- -ty-ind-ir-ee
+krosimaa	- -kr-os-imaa
+ità	 -ità
+reenee	- -r-een-ee
+šnee	- -š-n-ee
+išnaa	- -iš-n-aa
+karaamisaanaa	- -kar-aa-m-isaan-aa
+irisaa	- -ir-isaa
+karnee	- -kar-n-ee
+deensaanee	- -d-een-saan-ee
+romee	- -r-om-ee
+aaree	- -aa-r-ee
+kromee	- -kr-om-ee
+kuryomaa	kury -o-maa
+štirsee	- -št-ir-s-ee
+štir	- -št-ir
+sisaanaa	- -s-isaan-aa
+risaanaa	- -r-isaan-aa
+eemaat	-ee-maa -t
+karnee	- -kar-n-ee
+aadeendis	- -aa-d-eend-is
+aadeedisaa	- -aa-d-eed-isaa
+kreendir	- -k-r-eend-ir
+aasimaanee	- -aa-s-imaan-ee
+aandis	- -aa-nd-is
+vaaree	 -vaar -ee
+risee	- -r-is-ee
+rsee	- -r-s-ee
+irsee	- -ir-s-ee
+karindimaanee	- -kar-ind-imaan-ee
+kreendee	- -k-r-eend-ee
+vaašomaa	vaaš-omaa
+eendisaa	- -eend-isaa
+eesim	-ees-im
+aadeendis	- -aa-d-eend-is
+karindisee	- -kar-ind-is-ee
+karindisaa	- -kar-ind-is-aa
+indisee	- -ind-is-ee
+risee	- -r-is-ee
+ris	- -r-is
+aarrsee	- -aar-r-s-ee
+inkeerà	 -in-keerà
+irsaanee	- -ir-saan-ee
+indisaanee	- -ind-isaan-ee
+ndisaanee	- -nd-isaan-ee
+isee	- -is-ee
+krossee	- -k-r-os-s-ee
+krossaa	- -k-r-os-s-aa
+kross	- -k-r-os-s
+orkeerà	-o-r -keerà
+štee	- -št-ee
+karaadà	- -kar-aa-d-à
+iiškii	 -iiš -kii
+aadomisaa	- -aa-d-om-is-aa
+aadomisee	- -aa-d-om-is-ee
+aadomis	- -aa-d-om-is
+omisaan	- -om-isaan
+ndisee	- -nd-is-ee
+omis	- -om-is
+risaanee	- -r-isaan-ee
+ssaanaa	- -s-saan-aa
+aamisaa	- -aa-m-is-aa
+aardomaa	- -aar-d-om-aa
+aardomee	- -aar-d-om-ee
+aardom	- -aar-d-om
+eemtà	-ee-m -tà
+aawom	- -aaw-om
+aawomaa	- -aaw-omaa
+eesee	 -ee-s -ee
+ndisee	- -nd-isee
+indisee	- -ind-is-ee
+keetaayaa	keetaa-yaa
+dossaa	- -d-os-saa
+karnisaa	- -kar-n-isaa
+aamisaa	- -aa-m-isaa
