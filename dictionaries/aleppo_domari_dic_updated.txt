@@ -1620,6 +1620,8 @@ nà-	NEG-
 -o-m-ee	-VITR-1SG-PRES
 -o-maa	-SG-1PL
 -o-maan	-SG-1PL
+-o-maan-ee	-SG-1PL-PRES
+-o-maan-aa	-SG-1PL-REM
 -o-n-aa	-VITR-1PL-REM
 -o-n-ee	-VITR-1PL-PRES
 -o-nd-aa	-VITR-3PL-REM
@@ -5636,7 +5638,8 @@ li-	to-
 -k-r-eend-ir	-VTR-PFV-3PL-3SG
 -s-isaan-aa	-2PL-3PL-REM
 -s-saan-aa	-2PL-3PL-REM
--omaan-aa	-1PL-2SG
+-omaan-aa	-1PL-REM
+-omaan-ee	-1PL-PRES
 -om-ee	-1SG-PRES
 -ees-im	-OBL.SG-LOC
 -om-s-ee	-1SG-3SG-PRES

@@ -890,10 +890,10 @@ omee	- -o-m-ee
 ondee	- -o-nd-ee
 ondis	- -ond-is
 onee	- -o-n-ee
-or	-o-r
-oraa	-o-raa
-oraan	-o-raan
-oree	-o-r-ee
+or	 -o-r
+oraa	 -o-raa
+oraan	 -o-raan
+oree	 -o-r-ee
 os	 -o-s
 osaa	 -o-saa
 osaan	 -o-saan
@@ -1545,3 +1545,8 @@ karnisaa	- -kar-n-isaa
 aamisaa	- -aa-m-isaa
 ḍomiin	ḍom -iin
 ḍominkii	ḍom -in-kii
+inkeeree	 -in-keeree
+omaam	 -o-maa -m
+omaanee	 -o-maan-ee
+omaamà	 -omaa -mà
+is	 -is
