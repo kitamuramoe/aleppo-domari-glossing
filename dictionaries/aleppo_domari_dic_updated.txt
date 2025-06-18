@@ -2680,7 +2680,7 @@ dirj	drowers
 dirmà	again
 dirmii	again
 dišk-	paste
-d-išt-	give-PRG-
+d-išt-	give-PROG-
 diy	village
 diyà	village
 diyaar-	obvious

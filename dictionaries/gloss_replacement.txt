@@ -6,7 +6,7 @@ do/make-COP/PROG	do/make-PROG
 come-COP/PROG	come-PROG
 see-COP/PROG	see-PROG
 look.after-COP/PROG	look.after-PROG
-give-COP/PROG	give/PROG
+give-COP/PROG	give-PROG
 give.birth-COP/PROG	give.birth-PROG
 put/give-COP/PROG	put/give-PROG
 take-COP/PROG	take-PROG
@@ -577,7 +577,6 @@ do/make-1SG/LOC	do/make-1SG
 come-1SG/LOC	come-1SG
 see-1SG/LOC	see-1SG
 look.after-1SG/LOC	look.after-1SG
-give/PROG	give/PROG
 give.birth-1SG/LOC	give.birth-1SG
 put/give-1SG/LOC	put/give-1SG
 take-1SG/LOC	take-1SG
@@ -667,7 +666,6 @@ do/make-REM/2SG/INDEF/CAUS	do/make-REM/2SG/CAUS
 come-REM/2SG/INDEF/CAUS	come-REM/2SG/CAUS
 see-REM/2SG/INDEF/CAUS	see-REM/2SG/CAUS
 look.after-REM/2SG/INDEF/CAUS	look.after-REM/2SG/CAUS
-give/PROG	give/PROG
 give.birth-REM/2SG/INDEF/CAUS	give.birth-REM/2SG/CAUS
 put/give-REM/2SG/INDEF/CAUS	put/give-REM/2SG/CAUS
 take-REM/2SG/INDEF/CAUS	take-REM/2SG/CAUS
@@ -724,7 +722,6 @@ do/make-PRES/2SG.PRES/PL	do/make-PRES/2SG.PRES
 come-PRES/2SG.PRES/PL	come-PRES/2SG.PRES
 see-PRES/2SG.PRES/PL	see-PRES/2SG.PRES
 look.after-PRES/2SG.PRES/PL	look.after-PRES/2SG.PRES
-give/PROG	give/PROG
 give.birth-PRES/2SG.PRES/PL	give.birth-PRES/2SG.PRES
 put/give-PRES/2SG.PRES/PL	put/give-PRES/2SG.PRES
 take-PRES/2SG.PRES/PL	take-PRES/2SG.PRES
@@ -999,3 +996,10 @@ sock-1PL/NEG/OBL.PL/DEF	sock-OBL.PL/DEF
 service-PRES/2SG.PRES/PL	service-PRES/PL
 SG-3PL-LOC/1SG-PRES/2SG.PRES/PL	SG-3PL-LOC-PRES
 soldier-PRES/2SG.PRES/PL	soldier-PRES/PL
+simple-REM/2SG/INDEF/CAUS	 simple-REM/INDEF
+Europe-VITR/INDEF/3PL/REM/and/2SG	Europe-INDEF/REM/and
+say/good-SUBJ/PROG-3PL-PRES	say-PROG-3PL-PRES
+say/good-SUBJ/PROG	say-SUBJ/PROG
+get.married-COP/PROG-PRES	get.married-PROG-PRES
+get.married-COP/PROG	get.married-PROG
+poor-VITR/INDEF/3PL/REM/and/2SG	poor-INDEF/REM/and
