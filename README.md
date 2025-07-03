@@ -53,7 +53,7 @@ Replacements are applied from longest to shortest match to avoid partial overlap
 
 ## Step 2: Splitting into One Word Per Line
 
-Convert each sentence into a list of individual words, with one word per line.
+This step converts each sentence into a list of individual words, with one word per line.
 
 This step is applied to segmented text.  
 Lines that start with a quotation mark (e.g., translations or comments) are preserved as they are.
