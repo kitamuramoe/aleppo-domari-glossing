@@ -32,7 +32,7 @@ Morphological boundaries are inserted into words in two steps:
 Lines starting with a quotation mark (e.g., translations) are skipped and preserved as-is.
 
 **Example**:
-- `saaʕidkarrisaa` → `saaʕid- -kar-r-is-aa .`
+- `saaʕidkarrisaa.` → `saaʕid- -kar-r-is-aa .`
 
 ---
 
