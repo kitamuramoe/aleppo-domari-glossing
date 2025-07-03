@@ -91,8 +91,8 @@ Each sentence block is separated by an empty line and may include a free transla
 
 For each block, the script outputs:
 
-1. A segmented sentence (space-separated)  
-2. A gloss line (aligned with the sentence)  
+1. A segmented sentence 
+2. A gloss line
 3. A free translation line
 
 If a gloss is missing:
