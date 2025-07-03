@@ -56,7 +56,7 @@ Replacements are applied from longest to shortest match to avoid partial overlap
 This step converts each sentence into a list of individual words, with one word per line.
 
 This step is applied to segmented text.  
-Lines that start with a quotation mark (e.g., translations or comments) are preserved as they are.
+Lines that start with a quotation mark (e.g., translations) are preserved as they are.
 
 After this step, **download the output file and manually check whether each word is correctly segmented** into morphemes.  
 If over-segmentation or incorrect boundaries are found, correct them manually before proceeding to the next step.
