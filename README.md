@@ -15,7 +15,7 @@ Lines starting with a quotation mark will be preserved throughout all processing
 
 ## Step 1a: Morphological Segmentation (Preprocessing + Word Replacement)
 
-Insert morphological boundaries into words in two steps:
+Morphological boundaries are inserted into words in two steps:
 
 1. **Preprocessing**:  
    This step adds a space or hyphen (`-`) after specific punctuation marks or endings.  
