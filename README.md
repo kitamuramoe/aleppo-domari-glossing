@@ -97,7 +97,7 @@ For each block, the script outputs:
 
 If a gloss is missing:
 - `*` is inserted for general words
-- `-*` is inserted if the word begins with a hyphen (e.g., for clitics)
+- `-*` is inserted if the word begins with a hyphen (e.g., for suffixes)
 
 After formatting, an additional cleaning step is applied to remove formatting artifacts such as:
 - Extra spaces before punctuation (e.g., `' , '` → `','`)
