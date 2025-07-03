@@ -18,7 +18,7 @@ Lines starting with a quotation mark will be preserved throughout all processing
 Insert morphological boundaries into words in two steps:
 
 1. **Preprocessing**:  
-   Add a space or hyphen (`-`) after specific punctuation marks or endings.  
+   This step adds a space or hyphen (`-`) after specific punctuation marks or endings.  
    For example, the clitic `šii` (meaning 'also') is separated from the preceding word,  
    as it typically follows an inflected phrase and should be treated as an independent morpheme.  
    This prevents segmentation errors in the next step.
@@ -39,7 +39,7 @@ Lines starting with a quotation mark (e.g., translations) are skipped and preser
 ## Step 1b: Correcting Over-segmentation
 
 This step applies additional adjustments to morpheme segmentation using a list of replacement patterns.  
-It is used to correct cases where automatic segmentation may have over- or under-applied boundary rules.
+It is used to correct cases where automatic segmentation may have over-applied boundary rules.
 
 The script reads a replacement dictionary (`adjust_morpheme_boundary.txt`),  
 where each line lists an original word and its adjusted version.
@@ -59,7 +59,7 @@ This step is applied to segmented text.
 Lines that start with a quotation mark (e.g., translations or comments) are preserved as they are.
 
 After this step, **download the output file and manually check whether each word is correctly segmented** into morphemes.  
-If over-segmentation or incorrect boundaries are found, correct them manually before proceeding.
+If over-segmentation or incorrect boundaries are found, correct them manually before proceeding to the next step.
 
 ---
 
