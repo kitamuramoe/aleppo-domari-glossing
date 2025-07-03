@@ -74,6 +74,7 @@ The script then reads the list of segmented words from `output_texts/processed_w
 and for each word:
 - If a gloss is found, the word and its gloss are written side by side (tab-separated).
 - If no gloss is found, the word is written alone to indicate a missing entry.
+- If the token is a punctuation mark (e.g., !, ?, ,, .), a double asterisk (**) is output instead of a gloss. These will be removed in the next step.
 
 **Example**:
 - `ḍom` → `ḍom	Dom/people`
@@ -101,7 +102,7 @@ If a gloss is missing:
 
 After formatting, an additional cleaning step is applied to remove formatting artifacts such as:
 - Extra spaces before punctuation (e.g., `' , '` → `','`)
-- Double asterisks (`**`) from unglossed items
+- Double asterisks (`**`) for punctuation marks
 - Redundant or broken hyphenation (e.g., `- -` → `-`)
 
 **Example**:
