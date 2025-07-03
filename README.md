@@ -103,7 +103,7 @@ If a gloss is missing:
 After formatting, an additional cleaning step is applied to remove formatting artifacts such as:
 - Extra spaces before punctuation (e.g., `' , '` → `','`)
 - Double asterisks (`**`) for punctuation marks
-- Redundant or broken hyphenation (e.g., `- -` → `-`)
+- Redundant hyphenation (e.g., `- -` → `-`)
 
 **Example**:
 - `ḥasanee laavtiiy-ee ,`
